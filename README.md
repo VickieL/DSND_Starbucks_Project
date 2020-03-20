@@ -41,9 +41,9 @@ B. Modeling Part: build model to determine which offer is best for a given custo
 
 **data FOLDER**: data source files as data sets of this project.
 
-**analysis FOlDER**: excel files used during analysis part. user_summary_analysis.xlsx are mainly used. Data insights are summarized in Blog post. Readers DON'T need to read this folder.
+**analysis FOLDER**: excel files used during analysis part. user_summary_analysis.xlsx are mainly used. Data insights are summarized in Blog post. Readers DON'T need to read this folder.
 
-**pictures FOlDER**: it stores picture which might used for blog. Readers DON'T need to read this folder.
+**pictures FOLDER**: it stores picture which might used for blog. Readers DON'T need to read this folder.
 
 **archived FOLDER**: it stores archived jupyter notebooks. Readers DON'T need to read this folder.
 
